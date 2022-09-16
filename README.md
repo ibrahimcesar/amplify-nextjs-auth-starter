@@ -1,0 +1,1 @@
+# amplify-nextjs-auth-starter
